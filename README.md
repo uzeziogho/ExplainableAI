@@ -1,7 +1,3 @@
-# ExplainableAI
-Projects using EXplainable AI
-
-
 # Project Title
 A Personalised Diabetes Mellitus Risk 
 Assessment Tool using Machine Learning and 
